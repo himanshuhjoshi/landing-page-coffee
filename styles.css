@@ -48,7 +48,7 @@ body {
 }
 
 .info {
-    color: 4E2A2A;
+    color: #4E2A2A;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -73,7 +73,6 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    color: #4E2A2A;
 }
 
 .card {
